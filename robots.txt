@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oungohjim.raven-and-owl.ru/sitemap.xml
